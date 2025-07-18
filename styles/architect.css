@@ -164,6 +164,18 @@ main>section {
   filter: grayscale(100%);
 }
 
+footer{
+  max-width: 1440px;
+  background-color: #FFF4E7;
+  text-align: center;
+  margin: 60px auto;
+  padding: 15px;
+}
+
+.footer-description{
+  font-size: 1.25rem;
+}
+
 /* Responsive media query */
 
 /* medium device */
